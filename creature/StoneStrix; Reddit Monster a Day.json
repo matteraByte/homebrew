@@ -9981,7 +9981,22 @@
 			"damageTags": [
 				"S",
 				"A"
-			]
+			],
+			"tokenUrl": "https://i.imgur.com/D8brJT0.png",
+			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://i.imgur.com/i6WklQ0.jpg"
+						}
+					}
+				],
+				"entries": [
+					"{@b SOURCE}: {@link Reddit Source|https://www.reddit.com/r/dndnext/comments/3q5nl7/homebrew_monster_a_day_caustic_crawler/}"
+				]
+			}
 		},
 		{
 			"source": "MaDSS",
@@ -10217,7 +10232,29 @@
 			],
 			"damageTags": [
 				"B"
-			]
+			],
+			"tokenUrl": "https://i.imgur.com/oJhL5fW.png",
+			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://i.imgur.com/8hBy3e1.jpg"
+						}
+					},
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://i.imgur.com/ydCbP8X.jpg"
+						}
+					}
+				],
+				"entries": [
+					"{@b SOURCE}: {@link Reddit Source|https://www.reddit.com/r/dndnext/comments/3s5mg0/homebrew_monster_a_day_bullywug_shaman/}"
+				]
+			}
 		},
 		{
 			"source": "MaDSS",
@@ -10561,7 +10598,31 @@
 			],
 			"damageTags": [
 				"P"
-			]
+			],
+			"tokenUrl": "https://i.imgur.com/wBlGUh1.png",
+			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/intermediary/f/a70afd88-8d01-4703-be90-9312ab37e96a/d7mn1su-4fd128c1-d89c-48be-9d81-226a3fc69a94.png"
+						}
+					},
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://i.imgur.com/daQo4xj.jpg"
+						}
+					}
+				],
+				"entries": [
+					"{@b SOURCE}: {@link Reddit Source|https://www.reddit.com/r/dndnext/comments/3lkpj4/homebrew_monster_a_day_arcanamite/}",
+					"A wolf-like creature with black fur, a long tail and big thin ears, flowing fur in its paws, and huge black feathers on top of his tail. These beasts are chaotic beings, with the power to bring misfortune to anyone who gets near them.",
+					"These creatures are known for its power to leave a path of accidents, bad luck, misfortune and random mischief, and they are always hunted from a distance to avoid step on its bad luck aura for getting too close to the beast."
+				]
+			}
 		},
 		{
 			"source": "MaDSS",
@@ -11117,7 +11178,29 @@
 			],
 			"damageTags": [
 				"P"
-			]
+			],
+			"tokenUrl": "https://i.imgur.com/6eH2YUL.png",
+			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "http://4.bp.blogspot.com/_DZlbvVly4yU/TNmoIE6bFJI/AAAAAAAAAt0/oC93bnkUJAY/s1600/glass+mite_flat+copy.jpg"
+						}
+					},
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://i.imgur.com/ReMAdm3.jpg"
+						}
+					}
+				],
+				"entries": [
+					"{@b SOURCE}: {@link Reddit Source|https://www.reddit.com/r/dndnext/comments/3lkpj4/homebrew_monster_a_day_arcanamite/}"
+				]
+			}
 		},
 		{
 			"source": "MaDSS",

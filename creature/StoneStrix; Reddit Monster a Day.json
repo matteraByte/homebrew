@@ -9799,7 +9799,29 @@
 			"damageTags": [
 				"P",
 				"B"
-			]
+			],
+			"tokenUrl": "https://i.imgur.com/BZCNO1A.png",
+			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/intermediary/f/4b64d6d5-b546-4d91-b141-8daa39e8541d/d8an9xx-81d4dcb7-1787-4bd6-9319-c99248f25d38.jpg/v1/fill/w_843,h_948,q_70,strp/chameleon_scout_by_firatsolhan_d8an9xx-pre.jpg"
+						}
+					},
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://i.imgur.com/OnBJkc2.jpg"
+						}
+					}
+				],
+				"entries": [
+					"{@b SOURCE}: {@link Reddit Source|https://www.reddit.com/r/monsteraday/comments/3tubf2/day_98_chamaelean/}"
+				]
+			}
 		},
 		{
 			"source": "MaDSS",
@@ -9907,7 +9929,29 @@
 			"damageTags": [
 				"B",
 				"O"
-			]
+			],
+			"tokenUrl": "https://i.imgur.com/FnxXDJM.png",
+			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/intermediary/f/2108eb75-b45c-49a0-a45a-90959b415dc0/d1qnrmp-473609a8-222e-4ef5-baf0-e52550119b6b.jpg"
+						}
+					},
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://i.imgur.com/n5Ze9W8.jpg"
+						}
+					}
+				],
+				"entries": [
+					"{@b SOURCE}: {@link Reddit Source|https://www.reddit.com/r/monsteraday/comments/3s0lep/day_84_chainer_geist/}"
+				]
+			}
 		},
 		{
 			"source": "MaDSS",
